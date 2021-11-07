@@ -20,7 +20,8 @@ export default {
 <style>
 .user-item {
   display: grid;
-  grid-template-columns: 200px 150px 150px 250px 30px;
+  grid-template-columns: 150px 150px 250px 250px 30px;
+  text-align: center;
   align-items: center;
   justify-content: center;
   gap: 30px;
